@@ -15,6 +15,9 @@ Built for:
 
 Inspired by real-world enterprise commerce systems — but fully synthetic, open, and research-friendly.
 
+Note: Only sample data available here. For actual dataset, please visit HuggingFace Datasets:
+https://huggingface.co/datasets/sidhasadhak/beautycommerceos
+
 ---
 
 # 🌍 What is this?
